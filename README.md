@@ -1,7 +1,7 @@
 # Windows11-Unattended-Installation
 
 
-This project contains an `autounattend.xml` configuration for automating the Windows installation process with custom settings and scripts.The only time user have to interject is choosing the disk where windows-11 will be installed.
+This project contains an `autounattend.xml` configuration for automating the Windows installation process with custom settings and scripts. The only time user have to interject is choosing the disk where Windows-11 will be installed.
 
 ## Features
 
