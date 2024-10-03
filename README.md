@@ -10,6 +10,7 @@ This project contains an `autounattend.xml` configuration for automating the Win
 - **Custom User and Timezone Setup**: 
   - Default user: `usop` password: `8250` with administrative privileges.
   - <mark>To change default user name and password -- go to line no 382 and 385 and 392</mark>
+    [Alt shown-here](https://imgur.com/a/apxf77P)
   - Timezone: `India Standard Time`.
   
 - **Automatic Application and Feature Removal**: 
