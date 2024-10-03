@@ -8,7 +8,8 @@ This project contains an `autounattend.xml` configuration for automating the Win
 - **TPM, Secure Boot, and RAM Checks Bypassed**: The configuration includes registry tweaks to bypass TPM, Secure Boot, and RAM checks for systems that do not meet the hardware requirements for Windows.
   
 - **Custom User and Timezone Setup**: 
-  - Default user: `usop` password: `8250` with administrative privileges.<mark>Highlighted text</mark>
+  - Default user: `usop` password: `8250` with administrative privileges.
+  - <mark>To change default user name and password -- go to line no 382 and 385 and 392</mark>
   - Timezone: `India Standard Time`.
   
 - **Automatic Application and Feature Removal**: 
